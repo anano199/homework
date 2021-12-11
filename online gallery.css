@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(235, 214, 163);
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+font-size: 20px;
+color: rgb(97, 24, 194);
+}
+p{
+    font-size: 18px;
+}
+a{
+    color: rgb(219, 23, 219);
+}
+
+a:hover {
+color: rgb(0, 235, 117);
+}
+
+a:active {
+    color: royalblue;
+}
